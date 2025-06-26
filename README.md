@@ -1,56 +1,45 @@
 # Crypto Dashboard 📊
 
-**Crypto Dashboard** is an interactive and responsive web app for monitoring top cryptocurrencies in real-time.
+**Crypto Dashboard** is a responsive and interactive frontend app for monitoring cryptocurrencies using real-time data.
+
+---
 
 ## 🚀 Features
+
 - 🕰️ Real-time data from the [CoinGecko API](https://www.coingecko.com/)
-- 🔍 Quick cryptocurrency search
-- 💱 Currency switcher between USD and EUR
-- 📊 Weekly price and volume charts
-- 🌞 Light and dark mode
-- 🎨 Smooth animations and responsive design
+- 🔍 Search functionality
+- 💱 Currency switcher (USD / EUR)
+- 📊 Weekly price chart using Chart.js
+- 🌙 Toggle between Light and Dark mode
+- ⚡ Fully responsive design with animations
 
-## 🖼️ Screenshots
+---
 
-### HTML Structure
-![HTML](screenshots/html.png)
+## 📸 Screenshots
 
-### CSS Styling
-![CSS](screenshots/css.png)
+### 🧩 HTML Code  
+[<img src="screenshots/html.png" width="400" />](screenshots/html.png)
 
-### JavaScript Logic
-![JS](screenshots/js.png)
+### 🎨 CSS Code  
+[<img src="screenshots/css.png" width="400" />](screenshots/css.png)
 
-## 🛠️ Technologies
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Chart.js** for data visualization
-- **CoinGecko API** for market data
+### ⚙️ JavaScript Code  
+[<img src="screenshots/js.png" width="400" />](screenshots/js.png)
 
-## 📦 Installation
-```bash
-git clone https://github.com/tuo-username/crypto-dashboard.git
-cd crypto-dashboard
-```
+---
 
-## ▶️ Run Locally
-Open `index.html` in your browser — no build tools required.
+## 🛠️ Tech Stack
 
-## 📁 Project Structure
-```
-crypto-dashboard/
-├── index.html
-├── style.css
-├── script.js
-├── screenshots/
-│   ├── html.png
-│   ├── css.png
-│   └── js.png
-```
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- **Chart.js** – for chart rendering
+- **CoinGecko API** – for market data
 
-## 🔗 Contact
-If you're a recruiter or collaborator, feel free to reach me on:
-- [LinkedIn – Steven Pellicciolli](https://www.linkedin.com/in/steven-pelliciolli-29133735a)
-- [Freelancer Profile](https://www.freelancer.com/u/Djadk0Chastya)
+---
+
+## 🧪 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tuo-username/crypto-dashboard.git
+   cd crypto-dashboard
 
