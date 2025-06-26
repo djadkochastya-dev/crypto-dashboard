@@ -42,4 +42,12 @@
    ```bash
    git clone https://github.com/tuo-username/crypto-dashboard.git
    cd crypto-dashboard
+crypto-dashboard/
+├── index.html
+├── style.css
+├── script.js
+└── screenshots/
+    ├── html.png
+    ├── css.png
+    └── js.png
 
