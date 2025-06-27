@@ -11,6 +11,10 @@
 - 🌞 Light/dark mode toggle
 - 🎨 Smooth animations & responsive layout
 
+## 🚀 Live Demo
+Try it live on Vercel:
+[🔗 Crypto Dashboard (Live Demo)](https://crypto-dashboard-xxxxx.vercel.app)
+
 ## 📸 Screenshots
 
 Click to preview the source code sections:
