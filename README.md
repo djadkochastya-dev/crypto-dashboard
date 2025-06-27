@@ -28,22 +28,6 @@ Click to preview the source code sections:
 - `CoinGecko API` for live market data
 
 
-## 📦 Getting Started
-
-To preview the project locally:
-
-```bash
-git clone https://github.com/djadkochastya/crypto-dashboard.git
-cd crypto-dashboard
-crypto-dashboard/
-├── index.html
-├── style.css
-├── script.js
-└── screenshots/
-    ├── html-section.png
-    ├── css-section.png
-    └── js-section.png
-
 ## 📬 Contact
 
 Interested in collaborating or hiring?
@@ -51,3 +35,4 @@ Interested in collaborating or hiring?
 - 🔗 [LinkedIn – Steven Pellicciolli](https://www.linkedin.com/in/steven-pellicciolli-29133735a)
 - 💼 [Freelancer Profile](https://www.freelancer.com/u/Djadk0Chastya)
 - 📧 Email: [stevenpellicciolli.dev@gmail.com](mailto:stevenpellicciolli.dev@gmail.com)
+
