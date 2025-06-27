@@ -28,6 +28,18 @@ Click to preview the source code sections:
 - `Chart.js` for data visualization
 - `CoinGecko API` for live market data
 
+📁 Project Structure
+crypto-dashboard/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── LICENSE
+├── .gitignore
+└── screenshots/
+├── html-structure-preview.png
+├── js-api-fetch-logic.png
+└── css-styling-theme-dark.png
 
 ## 📬 Contact
 
