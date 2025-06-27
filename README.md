@@ -15,11 +15,10 @@
 
 Click to preview the source code sections:
 
-<p align="center">
-  <a href="screenshots/html-section.png"><img src="screenshots/html-section.png" width="250" /></a>
-  <a href="screenshots/css-section.png"><img src="screenshots/css-section.png" width="250" /></a>
-  <a href="screenshots/js-section.png"><img src="screenshots/js-section.png" width="250" /></a>
-</p>
+[<img src="screenshots/html-structure-preview.png" width="300" alt="HTML Screenshot" />](screenshots/html-structure-preview.png)
+[<img src="screenshots/css-styling-theme-dark.png" width="300" alt="CSS Screenshot" />](screenshots/css-styling-theme-dark.png)
+[<img src="screenshots/js-api-fetch-logic.png" width="300" alt="JavaScript Screenshot" />](screenshots/js-api-fetch-logic.png)
+
 
 ## 🛠️ Technologies Used
 
