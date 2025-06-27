@@ -15,9 +15,11 @@
 
 Click to preview the source code sections:
 
-[![HTML Screenshot](screenshots/html-section.png)](screenshots/html-section.png)
-[![CSS Screenshot](screenshots/css-section.png)](screenshots/css-section.png)
-[![JavaScript Screenshot](screenshots/js-section.png)](screenshots/js-section.png)
+<p align="center">
+  <a href="screenshots/html-section.png"><img src="screenshots/html-section.png" width="250" /></a>
+  <a href="screenshots/css-section.png"><img src="screenshots/css-section.png" width="250" /></a>
+  <a href="screenshots/js-section.png"><img src="screenshots/js-section.png" width="250" /></a>
+</p>
 
 ## 🛠️ Technologies Used
 
