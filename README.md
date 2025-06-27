@@ -15,9 +15,9 @@
 
 Click to preview the source code sections:
 
-[<img src="screenshots/html-section.png" width="300" alt="HTML Screenshot" />](screenshots/html-section.png)
-[<img src="screenshots/css-section.png" width="300" alt="CSS Screenshot" />](screenshots/css-section.png)
-[<img src="screenshots/js-section.png" width="300" alt="JavaScript Screenshot" />](screenshots/js-section.png)
+[![HTML Screenshot](screenshots/html-section.png)](screenshots/html-section.png)
+[![CSS Screenshot](screenshots/css-section.png)](screenshots/css-section.png)
+[![JavaScript Screenshot](screenshots/js-section.png)](screenshots/js-section.png)
 
 ## 🛠️ Technologies Used
 
@@ -27,6 +27,7 @@ Click to preview the source code sections:
 - `Chart.js` for data visualization
 - `CoinGecko API` for live market data
 
+
 ## 📦 Getting Started
 
 To preview the project locally:
@@ -34,7 +35,6 @@ To preview the project locally:
 ```bash
 git clone https://github.com/djadkochastya/crypto-dashboard.git
 cd crypto-dashboard
-
 crypto-dashboard/
 ├── index.html
 ├── style.css
@@ -50,4 +50,4 @@ Interested in collaborating or hiring?
 
 - 🔗 [LinkedIn – Steven Pellicciolli](https://www.linkedin.com/in/steven-pellicciolli-29133735a)
 - 💼 [Freelancer Profile](https://www.freelancer.com/u/Djadk0Chastya)
-
+- 📧 Email: [stevenpellicciolli.dev@gmail.com](mailto:stevenpellicciolli.dev@gmail.com)
